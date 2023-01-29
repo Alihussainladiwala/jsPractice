@@ -1,0 +1,10 @@
+.ed-page-layout{
+    display: grid;
+    grid-template-rows: "1fr 1fr";
+    justify-content: center;
+    align-items: center;
+}
+
+.ed-body{
+    width: "30px";
+}
