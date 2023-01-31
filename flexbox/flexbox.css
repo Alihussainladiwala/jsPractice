@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: pink;
+    height: 10vh;
+}
+
+.flex-box-1{
+    background-color: gray;
+    border-style: solid;
+    border-width: 5px;
+}
